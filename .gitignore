@@ -1,0 +1,27 @@
+# Binaries
+*.exe
+*.o
+*.a
+*.so
+*.dll
+*.dylib
+
+# Build artifacts
+bin/
+pkg/
+
+# Dependencies
+vendor/
+
+# IDE specific files
+.idea/
+*.iml
+*.vscode/
+*.sublime-*
+*.tmproj
+*.DS_Store
+
+# Temporary files
+*.swp
+*.swo
+*~
